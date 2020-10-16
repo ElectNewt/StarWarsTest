@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Shared.Utils\Shared.Utils.csproj" />
+    <ProjectReference Include="..\StarWars.Model\StarWars.Model.csproj" />
+  </ItemGroup>
+
+</Project>
