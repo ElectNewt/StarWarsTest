@@ -6,7 +6,14 @@ The application is built using `Net Core 3.1`.
 
 ## Usage
 
+update 1
 
+update 2
+
+update 3
+
+
+update 4
 To run the application:
  - Move into the folder `$SwTest\src\StarWars` 
  - Execute the command `dotnet run`
